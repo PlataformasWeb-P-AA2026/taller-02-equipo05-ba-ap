@@ -170,6 +170,10 @@ streamlit run app.py
 * La configuración de la URL del API, en la visualización, debe estar en un archivo llamado config.py
 * Estos dos archivos no deben estar en la dinámica de git, agregarlos al .gitignore
 
+<img width="1790" height="555" alt="imagen" src="https://github.com/user-attachments/assets/29141a99-105b-46ef-9e36-88c0a88ed47e" />
+
+Uso: En las carpetas con la configuración de API y Visualización, se crearon archivos **.bk** para generar un respaldo, actúa como una copia de seguridad binaria que almacena texto
+
 ---
 
 # PARTE 2: GitHub
