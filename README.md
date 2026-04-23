@@ -152,6 +152,12 @@ streamlit run app.py
 
 * Importante verificar que todo funcione en el local, para pasar a la siguiente fase
 
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/cd32ccd6-8658-451d-a52d-e8e0e1ae068c" />
+
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/cc825551-dba8-4c59-8e28-dbf5e6472a1e" />
+
+
+
 ## 6. Agregar archivos importantes
 
 * Crear un archivo requeriments.txt con pip freeze
