@@ -1,4 +1,4 @@
-# taller02
+# taller02 - Byron Alvarez / Antonella Parra
 
 # Taller: IaaS local con Multipass, FastAPI, PostgreSQL y Streamlit
 
